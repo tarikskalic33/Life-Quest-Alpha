@@ -1,1 +1,2 @@
-# Life-Quest-Alpha
+# LifeQuest Alpha
+Phone-friendly upload package.

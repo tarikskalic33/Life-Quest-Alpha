@@ -1,2 +1,2 @@
 // Entry point for Flutter app
-void main() {}
+void main() { print('LifeQuest Alpha running'); }

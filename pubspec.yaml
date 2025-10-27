@@ -23,3 +23,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
+
+dependencies:
+  dart_openai: ^6.0.0

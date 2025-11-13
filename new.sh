@@ -1,0 +1,1 @@
+gradle initcd "C:\Users\wsk\Documents\LifeQuest Platinum"

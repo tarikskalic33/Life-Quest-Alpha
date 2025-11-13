@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -7,6 +8,11 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/lifequest1/android" />
         <option name="gradleJvm" value="jbr-21" />
         <option name="resolveExternalAnnotations" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lifequest1/test_app/android" />
+        <option name="gradleJvm" value="jbr-21" />
       </GradleProjectSettings>
     </option>
   </component>

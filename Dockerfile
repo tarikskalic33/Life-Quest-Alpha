@@ -1,0 +1,5 @@
+FROM ubuntu@sha256:66460d557b25769b102175144d538d88219c077c678a49af4afca6fbfc1b5252
+LABEL authors="wsk"
+
+ENTRYPOINT ["top", "-b"]
+USER nobody

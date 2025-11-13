@@ -1,0 +1,3 @@
+where firebase
+flutterfire configure
+

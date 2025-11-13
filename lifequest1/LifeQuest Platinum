@@ -1,0 +1,21 @@
+
+# LifeQuest Platinum
+
+A comprehensive goal tracking and life management application designed to help users organize, track and achieve their personal and professional goals.
+
+## Overview
+
+LifeQuest Platinum is a software solution that enables users to:
+
+- Set and manage life goals
+- Track progress on objectives
+- Organize tasks and activities
+- Monitor personal development
+
+## Project Location
+
+Located at: `/c:/Users/wsk/Documents/LifeQuest Platinum/lifequest1/`
+
+A goal tracking and life management application
+flutterfire configure --project=lifequestplatinum
+flutter build apk --release

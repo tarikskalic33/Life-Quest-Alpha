@@ -1,0 +1,11 @@
+{
+  "cmake.sourceDirectory": "C:\\Users\\wsk\\Documents\\LifeQuest Platinum\\lifequest1\\windows\\runner",
+  "dart.flutterSdkPath": "~/.vscode/flutter",
+  "workbench.editor.autoLockGroups": {
+    "notebookOutputEditor": true,
+    "default": true,
+    "workbench.editorinputs.searchEditorInput": true
+  },
+  "workbench.editor.closeOnFileDelete": false,
+  "workbench.editor.defaultBinaryEditor": "default"
+}

@@ -7,5 +7,12 @@
     "workbench.editorinputs.searchEditorInput": true
   },
   "workbench.editor.closeOnFileDelete": false,
-  "workbench.editor.defaultBinaryEditor": "default"
+  "workbench.editor.defaultBinaryEditor": "default",
+  "chat.mcp.serverSampling": {
+    "lifequest1/.vscode/mcp.json: back4app": {
+      "allowedModels": [
+        "copilot/auto"
+      ]
+    }
+  }
 }

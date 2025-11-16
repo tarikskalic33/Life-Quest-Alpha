@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086669432559",
+    "project_id": "lifequestplatinum",
+    "storage_bucket": "lifequestplatinum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086669432559:android:351d852bf53ba48ea7dd1a",
+        "android_client_info": {
+          "package_name": "com.example.lifequest1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BiaB2kPmOwXDZOMxRho2FHLIGonk5ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

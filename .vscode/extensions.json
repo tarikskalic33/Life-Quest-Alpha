@@ -3,7 +3,19 @@
 	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
 
 	// List of extensions which should be recommended for users of this workspace.
-	"recommendations": [
+	"recommendations": [{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cargo",
+			"command": "build",
+			"problemMatcher": [
+				"$rustc"
+			],
+			"group": "build",
+			"label": "rust: cargo build"
+		}
+	]
 		"Dart-Code.flutter",
 		"ms-azuretools.vscode-docker",
 		"eamodio.gitlens",
